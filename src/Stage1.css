@@ -1,0 +1,21 @@
+.highlight-true {
+  background-color: lightgreen;
+}
+.header {
+  margin: auto;
+  width: 400px;
+  background: lightblue;
+  height: 100px;
+}
+.listSelect {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.highlight-false {
+  background-color: lightgray;
+}
+
+.hidden {
+  display: none;
+}
