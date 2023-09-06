@@ -43,7 +43,7 @@ export default function Stage1 () {
     return (
         <div style={{ margin: "auto", width: "50%" }}>
             <div className='header'>
-                <h1>Inventory</h1>
+                <p className='Inv'>Inventory</p>
             </div>
             <br/>
             <div>
